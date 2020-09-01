@@ -45,5 +45,4 @@ docker logs -tf my-container-dotnet
 
 If is running, you can see similar image below
 
-:::image type="content" source="images/output-hello-world.png" alt-text="Output":::
-
+![Output](images/output-hello-world.png)
